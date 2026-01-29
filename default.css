@@ -3,7 +3,7 @@
 :root {
   --primary: #ffffff;
   --secondary: #aa076b;
-  --tertiary: #43cea2; /*#3a96dd;*/
+  --tertiary: #43cea2;
   --page: #ffffff;
   --onprimary: #664300;
   --onsecondary: #664300;
@@ -12,7 +12,7 @@
   --detail: #ffb88c;
   --detail2: #185a9d;
 
-  --body-font: 1.1rem Verdana, sans-serif;
-  --header-font: lighter 3rem Verdana, sans-serif;
-  --title-font: lighter 2rem Verdana, sans-serif;
+   --body-font: 1.1rem Verdana, sans-serif;
+  --header-font: lighter 3rem Advent Pro, cursive;
+  --title-font: lighter 2rem Advent Pro, cursive;
 }
